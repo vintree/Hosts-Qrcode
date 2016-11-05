@@ -506,7 +506,7 @@
 
 	module.exports = {
 		"name": "qrcode",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"description": "Hosts pluging qrcode",
 		"main": "index.js",
 		"scripts": {
